@@ -10,9 +10,22 @@ Run the main_game.py file to begin the adventure:
 python main_game.py
 
 #visual from project in play:
-jack: Hello, I am jack. Have you heard about the strange disappearances? It's unsettling.
-Press 'y' to talk to the villager, or 'n' to walk away: y
-jack: The sheriff knows more than he's telling. Be cautious.
+ Shadows of Eldridge: Village Plaza 
+
+The village plaza is bustling with activity, but there’s an air of unease.  
+Locals exchange whispers while casting nervous glances toward the forest.  
+
+You see the sheriff leaning against a lamppost, avoiding eye contact.  
+Nearby, a café bustles with patrons who might know something.  
+
+Actions:
+1. Speak with the sheriff to gather leads.
+2. Visit the café to eavesdrop on rumors.
+3. Examine the plaza for unusual activity.
+4. Head to the forest to investigate further.
+
+Choose an action: _
+
 
 #status of project: With dynamic plotlines and modular programming for every significant game action, the project is now complete and operational, encompassing all five chapters. In addition to exploring and gathering clues, players can also engage with villagers and make choices that impact the story.
 
